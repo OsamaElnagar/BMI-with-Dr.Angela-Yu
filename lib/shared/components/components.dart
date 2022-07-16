@@ -1,7 +1,6 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import '../../layout/result_page.dart';
 import '../constants/constants.dart';
 
 class CardItem extends StatelessWidget {
