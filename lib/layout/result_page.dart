@@ -8,7 +8,7 @@ class ResultPage extends StatelessWidget {
   final String bmiResult;
   final String interpretation;
 
-   ResultPage({
+  const ResultPage({
     Key? key,
     required this.resultText,
     required this.bmiResult,
